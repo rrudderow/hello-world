@@ -1,2 +1,4 @@
-print ("hello world")
+git config --global user.username rrudderow
+
+git config --global user.username
 
